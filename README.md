@@ -1,8 +1,8 @@
-<p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Spring_Framework_Logo_2018.svg/1920px-Spring_Framework_Logo_2018.svg.png" height="300px"></p>
+<p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Spring_Framework_Logo_2018.svg/1920px-Spring_Framework_Logo_2018.svg.png" height="150px"></p>
 
 # Spring
 
-> 공부 내용 정리 : <a href="https://waiting-antique-acf.notion.site/Spring-intro-ac2481b00c1c47a28c6dfb12ab884edf">
+> 공부 내용 정리 : <a href="https://waiting-antique-acf.notion.site/Spring-intro-ac2481b00c1c47a28c6dfb12ab884edf"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"></a>
 
 ## spring의 특징
 
